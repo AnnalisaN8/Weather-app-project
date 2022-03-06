@@ -10,7 +10,7 @@ body {
   width: 2000px;
   max-width: fit-content;
   max-height: fit-content;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 .card-header {
   padding: 20px;
@@ -45,25 +45,24 @@ button {
 h2 {
   text-align: left;
   font-size: 50px;
-  margin-top: 50px;
   margin-bottom: 10px;
+  margin-top: 20px;
   margin-left: 0;
   line-height: 1.1;
 }
-.col-7 {
-  padding: 0 20px 0 30px;
-}
+
 .today-date {
   text-align: left;
   margin-top: 10px;
+  margin-bottom: 20px;
   line-height: 0;
   margin-left: 3px;
 }
 .side-temp {
   text-align: left;
 }
-.col-5 {
-  padding: 45px 0 10px 20px;
+.col-4 {
+  padding-top: 20px;
 }
 .large-temp {
   font-size: 20px;
@@ -88,5 +87,9 @@ h4 {
 }
 
 .col-sm {
-  font-size: 13px;
+  font-size: 12px;
+}
+
+footer {
+  font-size: 12px;
 }
